@@ -21,4 +21,8 @@ fun main(){
     User2(id="1", name="hello")
     User2(id="2", name="world", email="a@a.com")
     User2(id="2", name="world", email="a@a.com", age="20")
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 769b1ac5c998a5b72514809bec8da890e97a8635

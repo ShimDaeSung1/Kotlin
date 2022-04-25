@@ -15,4 +15,8 @@ fun main(){
     obj2.name = "world"
     obj1.some()
     obj2.some()
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 769b1ac5c998a5b72514809bec8da890e97a8635
